@@ -21,6 +21,7 @@
   #pragma implementation "mainframe.h"
 #endif
 
+/* my modifications */
 
 #include <glib/gi18n.h>
 #include <gdk/gdkkeysyms.h>
